@@ -1,0 +1,13 @@
+/Users/Charline/Projects/ToolbarRenderExample/ToolbarRenderExample/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/Charline/Projects/ToolbarRenderExample/ToolbarRenderExample/bin/Debug/ToolbarRenderExample.dll.mdb
+/Users/Charline/Projects/ToolbarRenderExample/ToolbarRenderExample/bin/Debug/ToolbarRenderExample.dll
+/Users/Charline/Projects/ToolbarRenderExample/ToolbarRenderExample/obj/Debug/ToolbarRenderExample.dll
+/Users/Charline/Projects/ToolbarRenderExample/ToolbarRenderExample/obj/Debug/ToolbarRenderExample.dll.mdb
+/Users/Charline/Projects/ToolbarRenderExample/ToolbarRenderExample/bin/Debug/Xamarin.Forms.Core.dll
+/Users/Charline/Projects/ToolbarRenderExample/ToolbarRenderExample/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/Charline/Projects/ToolbarRenderExample/ToolbarRenderExample/obj/Debug/ToolbarRenderExample.Views.TabPage.xaml
+/Users/Charline/Projects/ToolbarRenderExample/ToolbarRenderExample/obj/Debug/TabPage.xaml.g.cs
+/Users/Charline/Projects/ToolbarRenderExample/ToolbarRenderExample/obj/Debug/ToolbarRenderExample.Views.SchedulePage.xaml
+/Users/Charline/Projects/ToolbarRenderExample/ToolbarRenderExample/obj/Debug/SchedulePage.xaml.g.cs
+/Users/Charline/Projects/ToolbarRenderExample/ToolbarRenderExample/obj/Debug/ToolbarRenderExample.Views.FoodPage.xaml
+/Users/Charline/Projects/ToolbarRenderExample/ToolbarRenderExample/obj/Debug/FoodPage.xaml.g.cs

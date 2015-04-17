@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Droid/ToolbarRenderExample.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.077ca8cb13ca8d07" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToolbarRenderExample/Views/SchedulePage.xaml.cs">
+    <Files>
+      <File FileName="ToolbarRenderExample/ToolbarRenderExample.cs" Line="1" Column="1" />
+      <File FileName="ToolbarRenderExample/Views/TabPage.xaml" Line="1" Column="1" />
+      <File FileName="ToolbarRenderExample/Views/TabPage.xaml.cs" Line="20" Column="13" />
+      <File FileName="Droid/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="ToolbarRenderExample/Controls/MyTabbedPage.cs" Line="1" Column="1" />
+      <File FileName="Droid/Controls/CustomTabRenderer.cs" Line="1" Column="1" />
+      <File FileName="ToolbarRenderExample/obj/Debug/TabPage.xaml.g.cs" Line="1" Column="1" />
+      <File FileName="ToolbarRenderExample/Views/SchedulePage.xaml" Line="1" Column="1" />
+      <File FileName="ToolbarRenderExample/Views/SchedulePage.xaml.cs" Line="12" Column="27" />
+      <File FileName="ToolbarRenderExample/Views/FoodPage.xaml" Line="1" Column="1" />
+      <File FileName="ToolbarRenderExample/Views/FoodPage.xaml.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
